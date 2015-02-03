@@ -1,0 +1,2 @@
+class Followee < UserRelationship
+end
